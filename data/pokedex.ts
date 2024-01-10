@@ -14,7 +14,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
         dark_bulbasaur: {
             num: -1000,
-            name "Dark bulbasaur",
+            name: "Dark bulbasaur",
             types: ["Grass", "Dark"],
             genderRatio: {M: 0, F: 1},
             baseStats: {hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45},
